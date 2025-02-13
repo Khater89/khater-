@@ -1,2 +1,2 @@
 #hello worled  
-print ("hello worled  ")
+print ("hello worled")
